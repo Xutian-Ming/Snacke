@@ -27,13 +27,4 @@ Windows系统运行
 
 
 
-Linux系统运行
-1. 安装g++,gcc
-2. 创建build目录，在build目录下：
-```bash
-  cmake .. 
-  cmake --build .
-``` 
-3. 运行exe
-
 
