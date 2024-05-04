@@ -20,8 +20,8 @@ Windows系统运行
 3. 下载CMake，Vscode中安装cmake插件，并指定Vscode的CMake配置
 4. 创建build目录，在build目录下：
 ```powershell   
-  cmake .. # 生成cmake build文件
-  cmake --build . # 使用生成的cmake build文件 构建可执行文件exe exe位于bin文件夹内
+  cmake ..  # 生成cmake build文件
+  cmake --build .  # 使用生成的cmake build文件 构建可执行文件exe exe位于bin文件夹内
 ```
 5. 运行exe
 
