@@ -21,7 +21,7 @@ Windows系统运行
   cmake .. # 生成cmake build文件
   cmake --build . # 使用生成的cmake build文件 构建可执行文件exe exe位于bin文件夹内
 ```
-6. 运行exe
+5. 运行exe
 
 Linux系统运行
 1. 安装g++,gcc
