@@ -15,7 +15,7 @@ lib文件夹下的静态库源自EasyX官网下载
 
 
 Windows系统运行
-1. https://jmeubank.github.io/tdm-gcc/download/ 下载并安装TDM-GCC（乃EasyX需求的版本），安装时勾选add to path
+1. https://jmeubank.github.io/tdm-gcc/download/ 下载并安装TDM-GCC（EasyX需求的版本），安装时勾选add to path
 2. 下载Vscode
 3. 下载CMake，Vscode中安装cmake插件，并指定Vscode的CMake配置
 4. 创建build目录，在build目录下：
